@@ -1,0 +1,7 @@
+D:\VS\repos\FileManager\FileManager.Utils\bin\Release\FileManager.Utils.dll.config
+D:\VS\repos\FileManager\FileManager.Utils\bin\Release\FileManager.Utils.dll
+D:\VS\repos\FileManager\FileManager.Utils\bin\Release\FileManager.Utils.pdb
+D:\VS\repos\FileManager\FileManager.Utils\obj\Release\FileManager.Utils.csproj.AssemblyReference.cache
+D:\VS\repos\FileManager\FileManager.Utils\obj\Release\FileManager.Utils.csproj.CoreCompileInputs.cache
+D:\VS\repos\FileManager\FileManager.Utils\obj\Release\FileManager.Utils.dll
+D:\VS\repos\FileManager\FileManager.Utils\obj\Release\FileManager.Utils.pdb
